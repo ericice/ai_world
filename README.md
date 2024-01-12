@@ -1,6 +1,5 @@
 # ai_world
-#
-**AI World **
+
 
 
 **Introduction**
